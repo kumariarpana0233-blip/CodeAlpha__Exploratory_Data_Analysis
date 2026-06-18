@@ -1,6 +1,6 @@
 # CodeAlpha_Exploratory_Data_Analysis
 
-This repository contains the implementation of *Task 2: Exploratory Data Analysis (EDA)* completed during my Data Science Internship at *CodeAlpha*.
+This repository contains the implementation of *Task 2: Exploratory Data Analysis (EDA)* completed during my Data Analytics Internship at *CodeAlpha*.
 
 ---
 
